@@ -1,0 +1,4 @@
+run application with debug enabled
+
+Edit Runtime configuration(UdGuruSpr5RecipeApplicaiton)
+Under Environment in vm options field, enter vm options value: -Ddebug
