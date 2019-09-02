@@ -1,3 +1,5 @@
 https://github.com/springframeworkguru/spring5-recipe-app
 
 https://help.github.com/en/articles/fork-a-repo
+
+https://www.mkyong.com/logging/slf4j-logback-tutorial/
