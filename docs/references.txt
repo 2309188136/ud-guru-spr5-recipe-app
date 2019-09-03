@@ -8,3 +8,6 @@ https://www.mkyong.com/logging/slf4j-logback-tutorial/
 
 ----Circle CI
 https://circleci.com
+https://circleci.com/dashboard
+----documentation about how to setup circle CI
+https://springframework.guru/using-circleci-to-build-spring-boot-microservices/
