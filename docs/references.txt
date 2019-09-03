@@ -1,5 +1,10 @@
 https://github.com/springframeworkguru/spring5-recipe-app
 
+https://github.com/springframeworkguru/spring5-recipe-app/blob/maven-failsafe/pom.xml
+
 https://help.github.com/en/articles/fork-a-repo
 
 https://www.mkyong.com/logging/slf4j-logback-tutorial/
+
+----Circle CI
+https://circleci.com

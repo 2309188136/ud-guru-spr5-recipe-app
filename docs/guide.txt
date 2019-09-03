@@ -1,0 +1,5 @@
+--- maven can distinguish test named with IT suffix as integration Test
+--- maven can distinguish between unit test and integeration test
+---FailSafe plugin will run integration test
+
+shell>mvn test failsafe:integration-test failsafe:verify
