@@ -11,3 +11,5 @@ https://circleci.com
 https://circleci.com/dashboard
 ----documentation about how to setup circle CI
 https://springframework.guru/using-circleci-to-build-spring-boot-microservices/
+
+https://github.com/springframeworkguru/spring5-recipe-app/blob/display-a-recipe/src/main/resources/templates/recipe/show.html
