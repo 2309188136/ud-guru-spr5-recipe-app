@@ -22,4 +22,9 @@ public class IndexController {
         model.addAttribute("recipes", recipeService.getRecipes());
         return "index";
     }
+
+    @RequestMapping("/welcome")
+    public String hello(){
+        return "/WEB-INF/welcome";
+    }
 }

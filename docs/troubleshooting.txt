@@ -1,0 +1,2 @@
+---thymeleaf check null value
+https://stackoverflow.com/questions/13494078/how-to-do-if-else-in-thymeleaf
