@@ -2,4 +2,6 @@
 --- maven can distinguish between unit test and integeration test
 ---FailSafe plugin will run integration test
 
+
+file://C:/Users/haoch/.IntelliJIdea2019.1/config/javascript/extLibs/http_api.jquery.com_resources_api.xml.xml
 shell>mvn test failsafe:integration-test failsafe:verify
