@@ -17,13 +17,14 @@ public class RecipeController {
         this.recipeService = recipeService;
     }
 
-    @RequestMapping("/recipe/{id}/show")
+    //@RequestMapping("/recipe/{id}/show")
+    @GetMapping("/recipe/{id}/show") //Note Getting extend RequestMapping
     public String showById(@PathVariable String id, Model model){
         model.addAttribute("recipe", recipeService.findById(Long.valueOf(id)));
         return "recipe/show";
     }
 
-    @RequestMapping(value = "recipe/new")
+    @GetMapping(value = "recipe/new")
     public String newRecipe(Model model){
         model.addAttribute("recipe", new RecipeCommand());
         return "recipe/recipeform";
